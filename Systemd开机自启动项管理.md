@@ -16,7 +16,7 @@ System优点：Systemd使用配置文件的方式更加方便的对自启动项�
 
 ### A.命令篇：
 
-**3.1-4.2：**systemctl命令，systemctl-analyze命令，hostnamectl命令， localectl命令，timedatectl命令，loginctl命令，Unit命令
+**3.1-4.2:**systemctl命令，systemctl-analyze命令，hostnamectl命令， localectl命令，timedatectl命令，loginctl命令，Unit命令
 
 ```bash
 sudo systemctl [commmand]
@@ -25,15 +25,15 @@ ps:将系统暂停以后不知道怎么恢复了...
 
 [![asciicast](https://asciinema.org/a/p5nlrjOsuTMhJnzVtipw4qi5s.svg)](https://asciinema.org/a/p5nlrjOsuTMhJnzVtipw4qi5s)
 
-**4.3-4.4：**unit管理
+**4.3-4.4:**unit管理
 
 [![asciicast](https://asciinema.org/a/X4oAc16OP00pLgepcr9Mxo9l7.svg)](https://asciinema.org/a/X4oAc16OP00pLgepcr9Mxo9l7)
 
-**5.1-6：**unit配置文件
+**5.1-6**:unit配置文件
 
 [![asciicast](https://asciinema.org/a/Abwb7z3YZSW9zfoVu4jMdEUuj.svg)](https://asciinema.org/a/Abwb7z3YZSW9zfoVu4jMdEUuj)
 
-**6-7：**日志管理
+**6-7:**日志管理
 
 [![asciicast](https://asciinema.org/a/U9VEah35zzG3yfAFfZBp1Bll3.svg)](https://asciinema.org/a/U9VEah35zzG3yfAFfZBp1Bll3)
 
